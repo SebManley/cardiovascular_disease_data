@@ -1,4 +1,4 @@
-# Cardiovascular Disease Data (2022) <img src="https://media0.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif?cid=ecf05e4781lacu8c51zi2phdvpeb4k7rehqa3b3x0vxktuxe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50" />
+# Cardiovascular Disease Analysis (2022) <img src="https://media0.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif?cid=ecf05e4781lacu8c51zi2phdvpeb4k7rehqa3b3x0vxktuxe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50" />
 
 ## Project Overview
 
